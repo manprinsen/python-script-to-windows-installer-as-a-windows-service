@@ -1,3 +1,6 @@
+``` IF "Do you have headache trying to deploy your python script as a windows service?":```
+    print("please follow along!")
+    
 Tested on python 3.10 and windows server 2019
 
 Download and install Inno Setup
