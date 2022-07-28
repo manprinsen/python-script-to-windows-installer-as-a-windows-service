@@ -1,4 +1,4 @@
-``` 
+```python 
 IF YOU == "have headache trying to deploy your python script as a windows service?":
     print("please follow along!")
 ```
@@ -66,7 +66,7 @@ You should have a windows service called ```my-service```
 
 Over and out
 
-```
+```python
 ELSE:
     return False
 ```
