@@ -1,5 +1,7 @@
-``` IF "Do you have headache trying to deploy your python script as a windows service?":```
+``` 
+IF Do_you == "Have headache trying to deploy your python script as a windows service?":
     print("please follow along!")
+```
     
 Tested on python 3.10 and windows server 2019
 
@@ -64,3 +66,7 @@ You should have a windows service called my-service
 
 Over and out
 
+```
+ELSE:
+    return False
+```
