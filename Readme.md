@@ -1,11 +1,11 @@
 ``` 
-IF Do_you == "Have headache trying to deploy your python script as a windows service?":
+IF Do_you == "have headache trying to deploy your python script as a windows service?":
     print("please follow along!")
 ```
     
-Tested on python 3.10 and windows server 2019
+Steps below is tested on python 3.10 and windows server 2019
 
-Download and install Inno Setup
+* Download and install Inno Setup
 https://jrsoftware.org/download.php/is.exe
 
 Download and unzip NSSM - the Non-Sucking Service Manager
