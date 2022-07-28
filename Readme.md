@@ -51,7 +51,7 @@ For future preferences; you can change the variables at the top of the script
 #define OutputLocation "C:\inno-setup\output"
 ```
 
-* Edit the line ```AppId={{80B065A7-2B18-4547-A87E-EC1B544881C2}``` remove the ```{80B065A7-2B18-4547-A87E-EC1B544881C2}``` to is looks like this: ```AppId={``` (yes its correct). 
+* Edit the line ```AppId={{80B065A7-2B18-4547-A87E-EC1B544881C2}``` remove the ```{80B065A7-2B18-4547-A87E-EC1B544881C2}``` so it looks like this: ```AppId={``` (yes its correct). 
 * Place your cursor at the end of the {
 * At the top menu go to Tools then Generate GUID
 * At the top menu go to Build then Compile
