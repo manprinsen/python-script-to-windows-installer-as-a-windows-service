@@ -17,7 +17,7 @@ https://nssm.cc/ci/nssm-2.24-101-g897c7ad.zip
 * Create a folder at C:\inno-setup
 * Copy the nssm.exe from the unzipped NSSM directory ```.\nssm-2.24-101-g897c7ad\win64\``` to ```C:\inno-setup\```
 * Create a python script inside ```C:\inno-setup\``` called ```program.py```
-* Copy and paste the code below the ```program.py```
+* Copy and paste the code below to ```program.py```
 ```python
 import logging
 import time
